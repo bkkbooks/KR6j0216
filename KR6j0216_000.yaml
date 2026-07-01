@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0216/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一切如來心祕密全身舍利寶篋印陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1022B.xml
+    old_id: T19n1022B
+hash: sha256:071cc725fe46d163829f94a02e7da776caf6b9efaff25cad8286d31982c7dc20

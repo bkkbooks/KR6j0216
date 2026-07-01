@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR6j0216/v1
+canonical_location: https://kanripo.org/bkk/KR6j0216/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 一切如來心祕密全身舍利寶篋印陀羅尼經
+  identifiers:
+    alt_id:
+    - T19n1022B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1022B.xml
+    old_id: T19n1022B
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0216_000.yaml, hash: 'sha256:071cc725fe46d163829f94a02e7da776caf6b9efaff25cad8286d31982c7dc20'}
+  - {seq: 1, filename: KR6j0216_001.yaml, hash: 'sha256:0967608be1e0858ee8010148a18d8491e62465e08e353567f23a2ace031a6981'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0216_001.markers.yaml, hash: 'sha256:b479739468ec7dddfb08f9fc1d543be86a8d13a592e61c0a75873e904e60eca3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0216_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3758
+  label: '一切如來心祕密全身舍利寶篋
+
+    印陀羅尼經'
+  type: juan
+  level: 1
+hash: sha256:cac9653e94c954f2b5e6829597f3f18cdd0478584dd33772fb6f5ef585fb2f34
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
