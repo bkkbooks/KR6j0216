@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0216/v1
 canonical_location: https://kanripo.org/bkk/KR6j0216/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 一切如來心祕密全身舍利寶篋印陀羅尼經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0216_000.yaml, hash: 'sha256:071cc725fe46d163829f94a02e7da776caf6b9efaff25cad8286d31982c7dc20'}
-  - {seq: 1, filename: KR6j0216_001.yaml, hash: 'sha256:4bbd456d6f322776061aa75e805bdf540270ab066e52f825d8981daa4f5097cb'}
+  - {seq: 1, filename: KR6j0216_001.yaml, hash: 'sha256:6e2f4cc720d9f4798619bb6318334f7ebcd5b8e0849fc016b21993ad9eccf055'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0216_000.markers.yaml, hash: 'sha256:0393a7987461797bc1a1e3426f405df775346e85aadb18cef69911841892b399'}
-  - {seq: 1, role: markers, filename: assets/KR6j0216_001.markers.yaml, hash: 'sha256:a0ebda498aab9abae1fbbc5c8a7e5e3c708f0fc189d90105ccb3379c8c7edfd9'}
+  - {seq: 1, role: markers, filename: assets/KR6j0216_001.markers.yaml, hash: 'sha256:de3339b712b415cb80a3706b52626d6e502e5022037b3aefc19aefed2e7a82ba'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     印陀羅尼經'
   type: juan
   level: 1
-hash: sha256:b10bb658fa2d7754803b475f2ff3bb0ae171a40e76aebc7820d0797d22888f40
+hash: sha256:0fda47ed49ba1d311806821bdea0a66f231f41114ab1761d7520d0da92894fae
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
